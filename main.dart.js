@@ -13419,7 +13419,7 @@ case 13:s=6
 break
 case 6:s=3
 break
-case 4:q=new B.ij(m,i,o,"Verso",n,"Verso")
+case 4:q=new B.ij(m,i,"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVerso%2Fc5ivmiNSSA.png?alt=media&token=9fc7e5d1-e216-4a63-a57a-12349f829a64","Verso",n,"Verso")
 s=1
 break
 case 1:return P.a4(q,r)}})
@@ -43963,9 +43963,9 @@ return L.asF(new P.im(r,H.y(r).i("im<1>")),q,b.a,s,p)},
 a_e:function(a,b,c){return P.az0(P.aun().aD(a.a),new D.Ya(c))},
 l:function(a,b){if(b==null)return!1
 if(J.O(b)!==H.I(this))return!1
-return b instanceof D.pF&&b.a==this.a&&b.b===this.b},
+return b instanceof D.pF&&b.a===this.a&&b.b===this.b},
 gw:function(a){return P.Y(this.a,this.b,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a)},
-j:function(a){return'NetworkImage("'+H.c(this.a)+'", scale: '+this.b+")"}}
+j:function(a){return'NetworkImage("'+this.a+'", scale: '+this.b+")"}}
 D.Ya.prototype={
 $2:function(a,b){this.a.B(0,new L.hR(a,b))},
 $S:211}

@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "0bb8d11b2baa31c74096d7de85888e73",
-"/": "0bb8d11b2baa31c74096d7de85888e73",
-"main.dart.js": "22e5b5c602fa25da0b830c7c1d755769",
+"index.html": "b2f8798d5ba5e4b5898b40d3366dbaec",
+"/": "b2f8798d5ba5e4b5898b40d3366dbaec",
+"main.dart.js": "215e9bf3c502dc429ceaa4e7ec12f8ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/Verso-Profile.json": "c0f24a5d3806f8691c6af77614105b34",
+"assets/assets/Verso-Profile.json": "dc63ebcbfdc3812c10526fc47022b8ac",
 "assets/assets/passion-economy.json": "d140aecbb6df3cbccc4563cac014b570",
 "assets/assets/the-shift-from-the-attention-economy-to-the-value-economy.json": "7e76fff2890d86dcdd3ee1a1ed3110dc",
 "assets/assets/digital-garden.json": "5ba587dd30c7be6401621158069cb3ab",
