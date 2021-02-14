@@ -4,29 +4,33 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "69b7c0285c9cb9c9bd9d46d1036f9a4b",
-"/": "69b7c0285c9cb9c9bd9d46d1036f9a4b",
-"main.dart.js": "2502d99e1aaf640c2a59e2cf459e9087",
+"index.html": "0f12276449913035398ab69b479e7e10",
+"/": "0f12276449913035398ab69b479e7e10",
+"main.dart.js": "6d40dd6711c43b6df3f2df82c6c9222c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "800d6c101a908680d9288a1bbecf7386",
-"assets/AssetManifest.json": "0ec35cb5c3a57abca14ea9fafe2bfe57",
+"assets/AssetManifest.json": "1d3baaf9248b248e710596cf015131a0",
 "assets/NOTICES": "d5f52c4161d39371923a4cd945b10ba5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/Verso-Profile.json": "dc63ebcbfdc3812c10526fc47022b8ac",
+"assets/assets/problem-slide.json": "6c977fa530f99364edcb4c60546ecba3",
+"assets/assets/solution-slide.json": "573d3d21fe7ff75e1729fa2c2611b606",
+"assets/assets/Verso-Profile.json": "c966fd271e0371b3403f2638d08844f5",
 "assets/assets/passion-economy.json": "d140aecbb6df3cbccc4563cac014b570",
 "assets/assets/the-shift-from-the-attention-economy-to-the-value-economy.json": "7e76fff2890d86dcdd3ee1a1ed3110dc",
 "assets/assets/digital-garden.json": "5ba587dd30c7be6401621158069cb3ab",
 "assets/assets/creator-first.json": "6829a6853f208838e9b029407a3b7ccb",
 "assets/assets/Start-Here.json": "f6ee6a0ad4876e6d7cd06b3cbede5680",
-"assets/assets/first-slide.json": "cfaba505f5d88d74b9fd527b751f6722",
+"assets/assets/first-slide.json": "1a07031230c7ff15cce41ea2192fb102",
 "assets/assets/aligning-incentives.json": "499f417fef820536acb448e67cb391fd",
 "assets/assets/Bitcoin.json": "3486c6eaf841b894966be19d58487bb5",
-"assets/assets/tool-for-thought.json": "5cb14d302830c991c278018d51ceb568"
+"assets/assets/tool-for-thought.json": "5cb14d302830c991c278018d51ceb568",
+"assets/assets/product-slide.json": "990b3a5ef4126864aaa891ac0905f8b4",
+"assets/assets/problem-intro-slide.json": "881d11a531ebb6a21beaa55399d50b09"
 };
 
 // The application shell files that are downloaded before a service worker can
