@@ -4,33 +4,59 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "0f12276449913035398ab69b479e7e10",
-"/": "0f12276449913035398ab69b479e7e10",
-"main.dart.js": "6d40dd6711c43b6df3f2df82c6c9222c",
+"index.html": "530abdc99b9805de4fa3fc79792de2e2",
+"/": "530abdc99b9805de4fa3fc79792de2e2",
+"main.dart.js": "9fea025d9ace47947f40ad118d269449",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "800d6c101a908680d9288a1bbecf7386",
-"assets/AssetManifest.json": "1d3baaf9248b248e710596cf015131a0",
-"assets/NOTICES": "d5f52c4161d39371923a4cd945b10ba5",
+"assets/AssetManifest.json": "58deb7ba26362d8e084425211448080d",
+"assets/NOTICES": "73077c470296e2da19b6dd493e9cbb49",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/problem-slide.json": "6c977fa530f99364edcb4c60546ecba3",
-"assets/assets/solution-slide.json": "573d3d21fe7ff75e1729fa2c2611b606",
-"assets/assets/Verso-Profile.json": "c966fd271e0371b3403f2638d08844f5",
-"assets/assets/passion-economy.json": "d140aecbb6df3cbccc4563cac014b570",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/assets/problem-slide.json": "1c77247813895f67d2f7f1927663e37f",
+"assets/assets/solution-slide.json": "80edfab4b1a098265d6ee8e0f3da9860",
+"assets/assets/Verso-Profile.json": "b9eb50148e8e60635aefb22517c7eb68",
+"assets/assets/Hi,-I'm-Verso.json": "bca4a41ed14b9ff2f47a0e61125058f3",
+"assets/assets/ask-slide.json": "2b752bf68fdb53e4366dd32da8ecb130",
+"assets/assets/new-economic-system.json": "67697b47df9b2d52d026b4e208c4a752",
+"assets/assets/go-to-market-slide.json": "c6c7110e24cbdb38ce7da36785e1fff9",
+"assets/assets/discovering-high-value-knowledge.json": "6eeab6e6fbcd3ed5cc4c8c37a24789b1",
+"assets/assets/passion-economy.json": "acc23b03e6a45ba63feb906fba8ce003",
+"assets/assets/tipping-model-slide.json": "f0c0e1edb60cd07359159cbb45fd3c76",
+"assets/assets/passion-economy-slide.json": "1040fd540bbe6a17694bab61676f6dbb",
+"assets/assets/What-is-a-digital-garden%253F.json": "3e93de3e8cd68764234188198b605cb7",
+"assets/assets/creators-struggle-to-run-their-businesses.json": "dd1c51b3ff5913d575ece60462c6a04e",
 "assets/assets/the-shift-from-the-attention-economy-to-the-value-economy.json": "7e76fff2890d86dcdd3ee1a1ed3110dc",
-"assets/assets/digital-garden.json": "5ba587dd30c7be6401621158069cb3ab",
-"assets/assets/creator-first.json": "6829a6853f208838e9b029407a3b7ccb",
+"assets/assets/digital-garden.json": "cba3c1e4906ab0c708bb268b86a28507",
+"assets/assets/customer-acquisition-funnel-slide.json": "1a27ba3fe53043b034c8cf349bddb4e5",
+"assets/assets/creator-first.json": "b76ba714f69d2816205a40f2a945b87f",
+"assets/assets/knowledge-graph-slide.json": "af9be3e7dd3afc6e5fd5b4b0d0044d02",
 "assets/assets/Start-Here.json": "f6ee6a0ad4876e6d7cd06b3cbede5680",
-"assets/assets/first-slide.json": "1a07031230c7ff15cce41ea2192fb102",
+"assets/assets/first-slide.json": "1c64727a993e698cef99c44ca609d0ac",
 "assets/assets/aligning-incentives.json": "499f417fef820536acb448e67cb391fd",
-"assets/assets/Bitcoin.json": "3486c6eaf841b894966be19d58487bb5",
+"assets/assets/digital-garden-examples.json": "fd427a88032cc65d85b07b328a24369b",
+"assets/assets/the-current-state-of-affairs.json": "1d8530a5ec40c41c4afeecfacfff9b25",
+"assets/assets/architecture-of-the-internet.json": "47bcc76f0f05e2f96d84106e26cbb1ef",
+"assets/assets/What-is-a-digital-garden.json": "18dad2800b2ce8cdfcf4e957dfc2a3ac",
+"assets/assets/competition-slide.json": "55e9c5ae538f3b265034280e93b4c585",
+"assets/assets/Digital-Garden-examples-ff4c8994ee8d45269c1aa272b088a632.md": "60c267ca7eab575aced10a6b0db8127e",
+"assets/assets/digital-renaissance.json": "573db2a32de02594dbb27f730caab2cb",
+"assets/assets/tools-for-thought.json": "aa4dcdc79676c8633f499f9caac2ba23",
+"assets/assets/history-of-computing-and-tools-for-thought.json": "e6f5967927490b5395243fe4a4c55d89",
+"assets/assets/programmable-feeds-slide.json": "7e65504be0081b46177fa80c1c5bd56f",
+"assets/assets/the-internet-was-born-with-missing-pieces.json": "41235d45187d328cd4ced4d729b4ee7a",
+"assets/assets/Bitcoin.json": "802bab129a011767eaafe32e7972bfa4",
+"assets/assets/the-shift-from-the-attention-economy-to-the-knowledge-economy.json": "47691afb7b1fd4acc9a06eec82a17626",
+"assets/assets/team-slide.json": "6191be128aadbefbee4872a94e327bf0",
 "assets/assets/tool-for-thought.json": "5cb14d302830c991c278018d51ceb568",
 "assets/assets/product-slide.json": "990b3a5ef4126864aaa891ac0905f8b4",
-"assets/assets/problem-intro-slide.json": "881d11a531ebb6a21beaa55399d50b09"
+"assets/assets/peer-into-the-future.json": "303941edc85807bc90dac244c7dac545",
+"assets/assets/problem-intro-slide.json": "881d11a531ebb6a21beaa55399d50b09",
+"assets/assets/business-model-slide.json": "5bfb89c8efa250603225cb1beba6c52c",
+"assets/assets/market-network-slide.json": "b864652b483eb27c639fc17ecf1e0997"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -48,7 +74,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
